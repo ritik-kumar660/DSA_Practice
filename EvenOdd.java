@@ -14,3 +14,4 @@ public class EvenOdd {
     }
     
 }
+//logic -> we will check that the number is divisible by two or not by using modulo(%) operator 
